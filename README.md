@@ -9,3 +9,5 @@ Distribution conditions:
 3) Participation in the liquidity pool of the SET/BNB pair for at least $100.
 
 The distribution amount is 1000 SET to each of the developers.
+
+With all questions: Telegram @Nail_G8
